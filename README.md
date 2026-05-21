@@ -416,13 +416,3 @@ Python permite definir valores default para os parâmetros, o que significa que 
 def saudacao(nome: str, idade: int = 30) -> str:
     return f"Olá, {nome}, você tem {idade} anos."
 ```
-
-
-![imagem_03](./pic/3.jpg)
-
-Refatorar nosso código usando Dicionário, Type Hint e Funcões.
-
-
-![imagem_04](./pic/4.jpg)
-
-Duvidas

@@ -1,19 +1,6 @@
 
 # Aula 04 | Type hint, Tipos complexos (Dicionários vs DataFrames Vs Tabelas Vs Excel) e Funções
 
-Bem-vindos à quarta aula de Python e SQL focada em Engenharia de Dados. Nesta aula você vai aprender sobre: Type Hint, Listas e Dicionários e Funções. Esses elementos são essenciais para a manipulação de dados, ajudando na organização, interpretação e análise eficiente das informações. 
-
-![imagem_01](./pic/1.jpg)
-
-Vamos começar com uma introdução a cada um desses temas para nos prepararmos para o nosso primeiro prsojeto, como ler 1 bilhão de linhas!
-
-![imagem_05](./pic/5.jpeg)
-
-E o nosso workshop de sabado, dia 24 as 9am, como validar 1 bilhão de linhass.
-
-![imagem_06](./pic/6.jpeg)
-
-![imagem_02](./pic/2.jpg)
 
 ## 1. Type Hint
 
